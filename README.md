@@ -1,0 +1,2 @@
+# segucor
+apk de segucor
